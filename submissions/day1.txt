@@ -1,1 +1,3 @@
 存放每个人作业，实际的任务内容放这里。
+
+chenzhi 的作业完成git add, git commit, git push, git branch, git pull, git log, git remote, git checkout
