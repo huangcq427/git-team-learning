@@ -1,6 +1,1 @@
-基础操作
-clone
-add
-commit
-push
-pull
+阅读Pro Git的1.起步和2.Git基础
