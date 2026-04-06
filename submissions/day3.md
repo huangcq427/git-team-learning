@@ -26,3 +26,12 @@
 1. 将main分支合并到fujiajun分支（git checkout fujiajun && git merge main）
 2. 创建了submissions/day3.md文件，记录了关于git分支操作的方法
 3. 将修改后的分支合并回main
+
+## xiongyf
+
+1. 将 main 分支的最新内容合并到了自己的分支中，完成同步后，修改了当天的学习记录文件。
+
+2. 学习了远程分支的基本操作，使用 `git push origin xiongyf` 将本地分支推送到远程。
+
+3. 学习了 merge 和 rebase的相关知识，了解到它们虽然都能同步代码，但在提交历史上的效果不同。
+
