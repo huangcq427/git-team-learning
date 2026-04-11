@@ -35,6 +35,7 @@
 
 3. 学习了 merge 和 rebase的相关知识，了解到它们虽然都能同步代码，但在提交历史上的效果不同。
 
+ 
 ###huangcq
 1.fork仓库到自己仓库
 2.改本地的仓库地址指向fork后的，upstream为原仓库
@@ -43,4 +44,7 @@
 
 
 
+## fuxindong
+1. 了解merge和rebase的区别
+2. 将`main`分支合并自己的分支，然后修改文档后尝试提交pr
 
